@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.wrapper {
+  max-width: 980px;
+  margin: auto;
+}
+
+.header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.header__tile {
+  border-bottom: 1px solid #eaecef;
+}
+
+.section {
+  padding-bottom: 10px;
+}
+
+.content__title {
+  padding-bottom: 6px;
+  border-bottom: 1px solid #eaecef;
+}
+
+.content__link {
+  font-weight: 700;
+}
+
+.content__text, .content__item {
+  font-size: 16px;
+  padding-bottom: 5px;
+}
+
+.avatar {
+  max-width: 50px;
+}
