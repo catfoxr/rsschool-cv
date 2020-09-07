@@ -1,0 +1,1 @@
+- **[catfoxr.github.io/rsschool-cv/cv](https://catfoxr.github.io/rsschool-cv/cv**
